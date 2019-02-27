@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8b360781-7aa8-4f0f-b214-32624d0fdb18",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "btn_tuoguan_ytg_n": {
+      "ver": "1.0.3",
+      "uuid": "7b87162f-02fa-440c-b8b9-4e771bfdf01e",
+      "rawTextureUuid": "8b360781-7aa8-4f0f-b214-32624d0fdb18",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 83,
+      "rawWidth": 89,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

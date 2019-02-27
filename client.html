@@ -1,0 +1,242 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+    <title>websocket client</title>
+
+
+    <script language="javascript">
+
+
+        var week;
+
+        var systemDate = new Date();
+
+        // 获取当年
+        var year = systemDate.getFullYear();
+        var month = 6; //systemDate.getMonth() + 1;
+
+        switch ((new Date(year + '-' + month + '-1')).getDay()) {
+            case 1:
+                week = "星期一";
+                break;
+            case 2:
+                week = "星期二";
+                break;
+            case 3:
+                week = "星期三";
+                break;
+            case 4:
+                week = "星期四";
+                break;
+            case 5:
+                week = "星期五";
+                break;
+            case 6:
+                week = "星期六";
+                break;
+            default:
+                week = "星期天";
+        }
+       // document.write(month + "月" + "-1" + "日 " + week);
+    </script>
+
+    <script language="JavaScript">
+        var userName;
+        var passWord;
+        var xmlHttpRequest;
+
+
+        //XmlHttpRequest对象
+        function createXmlHttpRequest() {
+            if (window.ActiveXObject) { //如果是IE浏览器
+                return new ActiveXObject("Microsoft.XMLHTTP");
+            } else if (window.XMLHttpRequest) { //非IE浏览器
+                return new XMLHttpRequest();
+            }
+        }
+
+        function onLogin() {
+            userName = 'zzzz'; //document.f1.username.value;
+            passWord = '111';//document.f1.password.value;
+
+            var url = "http://10.0.0.8:8182?username=" + userName + "&password=" + passWord + "";
+
+            //1.创建XMLHttpRequest组建
+            xmlHttpRequest = createXmlHttpRequest();
+            //2.设置回调函数
+            xmlHttpRequest.onreadystatechange = zswFun;
+
+            //3.初始化XMLHttpRequest组建
+            xmlHttpRequest.open("GET", url, true);
+
+            //4.发送请求
+            xmlHttpRequest.send(null);
+        }
+
+        //回调函数
+        function zswFun() {
+            if (xmlHttpRequest.readyState == 4 && xmlHttpRequest.status == 200) {
+                var b = xmlHttpRequest.responseText;
+                if (b == "true") {
+                    alert("登录成功！");
+                } else {
+                    alert("登录失败！");
+                }
+            }
+        }
+
+    </script>
+
+    <script type="text/javascript">
+
+
+
+        var start = function () {
+            var inc = document.getElementById('incomming');
+            var wsImpl = window.WebSocket || window.MozWebSocket;
+            var form = document.getElementById('sendForm');
+            var input = document.getElementById('sendText');
+
+            inc.innerHTML += "connecting to server ..<br/>";
+
+            // create a new websocket and connect
+            window.ws = new wsImpl('ws://10.0.0.8:8182/Echo');
+            window.ws.binaryType = "arraybuffer";
+            // when data is comming from the server, this metod is called
+            ws.onmessage = function (evt) {
+
+                inc.innerHTML += evt.data + '<br/>';
+            };
+
+            // when the connection is established, this method is called
+            ws.onopen = function () {
+                inc.innerHTML += '.. connection open<br/>';
+            };
+
+            // when the connection is closed, this method is called
+            ws.onclose = function () {
+                inc.innerHTML += '.. connection closed<br/>';
+            }
+
+
+            form.addEventListener('submit', function (e) {
+                e.preventDefault();
+
+
+
+                var val = '2,' + loginname + ',' + input.value;
+                ws.send(val);
+                input.value = "";
+            });
+        }
+        window.onload = start;
+
+        var loginname;
+
+        function login() {
+            var loginid = document.getElementById('LoginName');
+            var val = loginid.value;
+            loginname = val;
+
+            var msginfo = "{'netid': '1', 'uid': '" + loginname + "','username':'小" + loginname + "','image':'http://','sex':'男'}";
+            ws.send(msginfo);
+        }
+
+
+        function createroom() {
+            var loginid = document.getElementById('LoginName');
+            var val = loginid.value;
+            loginname = val;
+
+            var msginfo = "{ 'netid': '18', 'uid': '" + loginname + "','gametype':1,'difen':500}";
+            ws.send(msginfo);
+        }
+
+
+        function addroom() {
+            var loginid = document.getElementById('LoginName');
+            var val = loginid.value;
+            loginname = val;
+            var roomid = document.getElementById('roomid');
+            var roomidvalue = roomid.value;
+            var msginfo = "{ 'netid': '19', 'uid': '" + loginname + "','roomid':'" + roomidvalue + "'}";
+            ws.send(msginfo);
+        }
+
+        function likairoom() {
+            var loginid = document.getElementById('LoginName');
+            var val = loginid.value;
+            loginname = val;
+           
+            var msginfo = "{ 'netid': '500', 'uid': '" + loginname + "'}";
+            ws.send(msginfo);
+        }
+
+        function qiandaocount() {
+            var loginid = document.getElementById('LoginName');
+            var val = loginid.value;
+            loginname = val;
+
+            var msginfo = "{ 'netid': '11', 'uid': '" + loginname + "'}";
+            ws.send(msginfo);
+        }
+
+        function siliao() {
+            var txtusername = document.getElementById('username');
+            var username = txtusername.value;
+            var txtsiliaomsg = document.getElementById('siliaomsg');
+            var siliaomsg = txtsiliaomsg.value;
+
+            var msginfo = '3' + ',' + loginname + ',' + username + ',' + siliaomsg;
+            ws.send(msginfo);
+            txtsiliaomsg.value = "";
+        }
+    </script>
+
+
+
+    <style type="text/css">
+        #sendForm {
+            height: 505px;
+            width: 564px;
+        }
+    </style>
+</head>
+<body>
+    <form id="sendForm">
+        <label>请填写登录名</label>
+        <input id="LoginName" value="diannaoren" />
+        <input id="btnlogin" value="登录" type="button" onclick="login();" />
+        </br>
+        </br>
+        <input id="btncreate" value="创建房间" type="button" onclick="createroom();" />
+        </br>
+        </br>
+        <input id="roomid" value="10086" />
+        <input id="btnadd" value="加入房间" type="button" onclick="addroom();" />
+        </br>
+        </br>
+        <input id="btnlikai" value="离开房间" type="button" onclick="likairoom();" />
+        <!--<input id="btnqiandao" value="签到" type="button" onclick="qiandaocount();" />
+        </br>
+
+        <label>发送给大家内容</label>
+        <input id="sendText" value="" />
+        <input id="btnsend" value="发送给大家" type="submit" />
+        </br>
+        </br>
+        <label>私聊的人</label>
+        <input id="username" value="001" />
+
+        <label>私聊的内容</label>
+        <input id="siliaomsg" value="你好" />
+        <input id="btnsiliao" value="发送私聊" type="button" onclick="siliao();" />-->
+        </br>
+        </br>
+    </form>
+
+    <textarea style="float: right;" readonly="readonly"></textarea>
+    <pre id="incomming" style="float: left;"></pre>
+
+</body>
+</html>

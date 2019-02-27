@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>blood/lord_anim_dagger_frame1_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+			<key>blood/lord_anim_dagger_frame1_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{335,0},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+			<key>blood/lord_anim_dagger_frame1_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{670,0},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+			<key>blood/lord_anim_dagger_frame1_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,294},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+			<key>blood/lord_anim_dagger_frame1_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{335,294},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+			<key>blood/lord_anim_dagger_frame1_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{670,294},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+			<key>blood/lord_anim_dagger_frame1_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,588},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+			<key>blood/lord_anim_dagger_frame1_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{335,588},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+			<key>blood/lord_anim_dagger_frame1_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{670,588},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+			<key>blood/lord_anim_dagger_frame1_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,882},{335,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,294}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>blood.png</string>
+			<key>realTextureFileName</key>
+			<string>blood.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

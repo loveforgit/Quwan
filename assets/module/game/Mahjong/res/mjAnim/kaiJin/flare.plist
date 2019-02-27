@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>flare_0.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-227.5,179.5}</string>
+                <key>spriteSize</key>
+                <string>{1,1}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{760,725},{1,1}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>0 0 1 0 1 1 0 1</string>
+                <key>verticesUV</key>
+                <string>760 725 761 725 761 726 760 726</string>
+            </dict>
+            <key>flare_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,0.5}</string>
+                <key>spriteSize</key>
+                <string>{211,213}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{283,1087},{211,213}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 6 7 4 5 6 4 6 0 2 3 4 0 1 2 4 0 2</string>
+                <key>vertices</key>
+                <string>333 115 333 257 289 286 151 285 122 241 123 104 163 75 303 73</string>
+                <key>verticesUV</key>
+                <string>494 1129 494 1271 450 1300 312 1299 283 1255 284 1118 324 1089 464 1087</string>
+            </dict>
+            <key>flare_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1}</string>
+                <key>spriteSize</key>
+                <string>{280,282}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{1,1087},{280,282}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 10 11 8 9 10 5 8 11 5 7 8 5 6 7 2 4 5 2 3 4 2 5 11 1 2 11 0 1 11</string>
+                <key>vertices</key>
+                <string>341 53 368 98 368 256 352 296 308 322 152 321 110 303 88 263 88 103 104 63 142 40 301 40</string>
+                <key>verticesUV</key>
+                <string>254 1100 281 1145 281 1303 265 1343 221 1369 65 1368 23 1350 1 1310 1 1150 17 1110 55 1087 214 1087</string>
+            </dict>
+            <key>flare_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{316,320}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{496,1069},{316,320}}</string>
+                <key>textureRotated</key>
+                <true/>
+                <key>triangles</key>
+                <string>8 10 11 8 9 10 5 8 11 5 7 8 5 6 7 2 4 5 2 3 4 2 5 11 1 2 11 0 1 11</string>
+                <key>vertices</key>
+                <string>353 38 386 81 386 264 369 306 323 340 144 338 102 322 70 278 70 96 86 54 127 22 307 20</string>
+                <key>verticesUV</key>
+                <string>798 1352 755 1385 572 1385 530 1368 496 1322 498 1143 514 1101 558 1069 740 1069 782 1085 814 1126 816 1306</string>
+            </dict>
+            <key>flare_4.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{4,3}</string>
+                <key>spriteSize</key>
+                <string>{338,342}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{420,725},{338,342}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>9 13 14 10 12 13 10 11 12 9 10 13 9 5 6 8 9 6 2 4 5 8 6 7 9 14 2 9 2 5 2 3 4 1 2 14 0 1 14 0 14 15</string>
+                <key>vertices</key>
+                <string>349 31 386 81 391 190 401 199 371 317 282 348 168 348 102 322 73 285 63 183 67 100 85 55 121 28 175 17 227 15 231 6</string>
+                <key>verticesUV</key>
+                <string>706 750 743 800 748 909 758 918 728 1036 639 1067 525 1067 459 1041 430 1004 420 902 424 819 442 774 478 747 532 736 584 734 588 725</string>
+            </dict>
+            <key>flare_5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,0}</string>
+                <key>spriteSize</key>
+                <string>{417,360}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{1,725},{417,360}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 10 11 9 2 8 3 4 5 6 7 8 6 8 2 2 3 5 6 2 5 9 10 2 0 1 2 0 2 11</string>
+                <key>vertices</key>
+                <string>427 41 437 153 431 155 431 282 415 330 385 360 71 360 39 328 20 263 25 52 66 0 385 0</string>
+                <key>verticesUV</key>
+                <string>408 766 418 878 412 880 412 1007 396 1055 366 1085 52 1085 20 1053 1 988 6 777 47 725 366 725</string>
+            </dict>
+            <key>flare_6.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{456,360}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{456,360}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 7 8 5 6 7 0 5 8 3 4 5 2 3 5 0 1 2 0 2 5</string>
+                <key>vertices</key>
+                <string>456 42 456 328 424 360 31 360 5 324 0 265 0 44 30 0 425 0</string>
+                <key>verticesUV</key>
+                <string>457 43 457 329 425 361 32 361 6 325 1 266 1 45 31 1 426 1</string>
+            </dict>
+            <key>flare_7.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{456,360}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{459,1},{456,360}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 7 8 5 6 7 0 5 8 3 4 5 2 3 5 0 1 2 0 2 5</string>
+                <key>vertices</key>
+                <string>456 42 456 328 424 360 31 360 5 324 0 265 0 44 30 0 425 0</string>
+                <key>verticesUV</key>
+                <string>915 43 915 329 883 361 490 361 464 325 459 266 459 45 489 1 884 1</string>
+            </dict>
+            <key>flare_8.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{456,360}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{1,363},{456,360}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 6 7 0 5 7 3 4 5 2 3 5 0 1 2 0 2 5</string>
+                <key>vertices</key>
+                <string>456 42 456 328 424 360 31 360 1 319 0 77 16 0 425 0</string>
+                <key>verticesUV</key>
+                <string>457 405 457 691 425 723 32 723 2 682 1 440 17 363 426 363</string>
+            </dict>
+            <key>flare_9.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{456,360}</string>
+                <key>spriteSourceSize</key>
+                <string>{456,360}</string>
+                <key>textureRect</key>
+                <string>{{459,363},{456,360}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>5 7 8 5 6 7 0 5 8 3 4 5 2 3 5 0 1 2 0 2 5</string>
+                <key>vertices</key>
+                <string>456 42 456 328 424 360 31 360 5 324 0 265 0 44 30 0 425 0</string>
+                <key>verticesUV</key>
+                <string>915 405 915 691 883 723 490 723 464 687 459 628 459 407 489 363 884 363</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA4444</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>flare.png</string>
+            <key>size</key>
+            <string>{916,1386}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:2b5fcb6560ea31f5ec1264e90a86a25c:b07c3cda8b1a8bbebebfe6afeac95947:6dba6df492ed1bf1dcf9926b0c8f9b41$</string>
+            <key>textureFileName</key>
+            <string>flare.png</string>
+        </dict>
+    </dict>
+</plist>

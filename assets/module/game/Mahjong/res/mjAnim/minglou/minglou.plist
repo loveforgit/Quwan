@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>minglou/minglou_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{256,0},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{512,0},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{768,0},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,256},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{256,256},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{512,256},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{768,256},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,512},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{256,512},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{512,512},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{768,512},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,768},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{256,768},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{512,768},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{768,768},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1024},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1280},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00018.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1536},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>minglou/minglou_00019.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1792},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>minglou.png</string>
+			<key>realTextureFileName</key>
+			<string>minglou.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

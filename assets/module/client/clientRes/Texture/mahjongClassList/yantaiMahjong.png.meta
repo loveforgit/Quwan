@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c72118e4-af5f-443f-9b4a-25fd806d54dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "yantaiMahjong": {
+      "ver": "1.0.3",
+      "uuid": "687fe5cc-956a-46d5-bbe1-4999c0a22987",
+      "rawTextureUuid": "c72118e4-af5f-443f-9b4a-25fd806d54dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 321,
+      "height": 223,
+      "rawWidth": 321,
+      "rawHeight": 223,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

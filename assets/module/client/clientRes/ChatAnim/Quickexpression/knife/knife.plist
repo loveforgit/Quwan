@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>knife/knife00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{86,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,87}</string>
+			</dict>
+			<key>knife/knife00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,87},{86,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,87}</string>
+			</dict>
+			<key>knife/knife00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{86,0},{86,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,87}</string>
+			</dict>
+			<key>knife/knife00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{86,87},{86,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,87}</string>
+			</dict>
+			<key>knife/knife00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{172,0},{86,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,87}</string>
+			</dict>
+			<key>knife/knife00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{172,87},{86,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,87}</string>
+			</dict>
+			<key>knife/knife00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{258,0},{86,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{86,87}</string>
+			</dict>
+			<key>knife/knife00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{345,0},{86,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{86,87}</string>
+			</dict>
+			<key>knife/knife00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{258,86},{86,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,87}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>knife.png</string>
+			<key>realTextureFileName</key>
+			<string>knife.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

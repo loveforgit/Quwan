@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>landResult/14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{922,0},{465,44}}</string>
+				<key>offset</key>
+				<string>{3,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{471,44}</string>
+			</dict>
+			<key>landResult/bg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1280},{585,435}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{585,435}</string>
+			</dict>
+			<key>landResult/continue1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{966,0},{144,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{144,55}</string>
+			</dict>
+			<key>landResult/da1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{966,432},{47,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,47}</string>
+			</dict>
+			<key>landResult/xixi1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{919,706},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>landResult/title_win_new1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{720,597},{598,199}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{598,199}</string>
+			</dict>
+			<key>landResult/xiao1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{922,465},{36,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,36}</string>
+			</dict>
+			<key>landResult/Mask Edition1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1280,720}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1280,720}</string>
+			</dict>
+			<key>landResult/share1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{966,144},{144,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{144,55}</string>
+			</dict>
+			<key>landResult/time_bg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{922,501},{205,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{205,71}</string>
+			</dict>
+			<key>landResult/end1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{966,288},{144,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{144,55}</string>
+			</dict>
+			<key>landResult/lord_image1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{919,861},{72,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,69}</string>
+			</dict>
+			<key>landResult/lose_anim_101.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{720,0},{597,202}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{597,202}</string>
+			</dict>
+			<key>win.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{919,786},{75,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,77}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>landResult.png</string>
+			<key>realTextureFileName</key>
+			<string>landResult.png</string>
+			<key>size</key>
+			<string>{1021,1865}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1021</integer>
+			<key>height</key>
+			<integer>1865</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>flower.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{246,78},{41,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{41,55}</string>
+			</dict>
+			<key>flower1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{246,0},{67,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,78}</string>
+			</dict>
+			<key>flower10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{84,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,82}</string>
+			</dict>
+			<key>flower2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,84},{84,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,82}</string>
+			</dict>
+			<key>flower3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,168},{84,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,82}</string>
+			</dict>
+			<key>flower4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{82,0},{84,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,82}</string>
+			</dict>
+			<key>flower5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{82,84},{84,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,82}</string>
+			</dict>
+			<key>flower6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{82,168},{84,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,82}</string>
+			</dict>
+			<key>flower7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,0},{84,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,82}</string>
+			</dict>
+			<key>flower8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,84},{84,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,82}</string>
+			</dict>
+			<key>flower9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,168},{84,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,82}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>flower.png</string>
+			<key>realTextureFileName</key>
+			<string>flower.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

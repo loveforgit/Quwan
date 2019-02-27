@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bomb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{74,61}}</string>
+				<key>offset</key>
+				<string>{3,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,66}</string>
+			</dict>
+			<key>cheers.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{142,0},{58,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{61,69}</string>
+			</dict>
+			<key>egg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{142,58},{54,71}}</string>
+				<key>offset</key>
+				<string>{1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{57,74}</string>
+			</dict>
+			<key>flower.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,0},{41,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{41,55}</string>
+			</dict>
+			<key>knife.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{74,0},{68,66}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,66}</string>
+			</dict>
+			<key>shoe.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{69,66},{48,64}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{77,68}</string>
+			</dict>
+			<key>tomato.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,61},{63,69}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{64,69}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>magicFaceAtlas.png</string>
+			<key>realTextureFileName</key>
+			<string>magicFaceAtlas.png</string>
+			<key>size</key>
+			<string>{250,124}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>250</integer>
+			<key>height</key>
+			<integer>124</integer>
+		</dict>
+	</dict>
+</plist>

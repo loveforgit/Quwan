@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7303fe01-4de8-4407-a250-50b51cedb840",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "desktop_bgbtn": {
+      "ver": "1.0.3",
+      "uuid": "2fad97c5-4cef-4abd-ab42-514c7681f069",
+      "rawTextureUuid": "7303fe01-4de8-4407-a250-50b51cedb840",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 118,
+      "height": 65,
+      "rawWidth": 118,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

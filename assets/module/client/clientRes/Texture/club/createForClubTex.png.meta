@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b9bf06ed-3733-425b-9b80-df60ec9ba640",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "createForClubTex": {
+      "ver": "1.0.3",
+      "uuid": "db140727-7ce4-48f0-8f6c-2b2ac31bf918",
+      "rawTextureUuid": "b9bf06ed-3733-425b-9b80-df60ec9ba640",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 376,
+      "height": 41,
+      "rawWidth": 376,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6718046b-c776-4622-ad15-0c32a22aeb4c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "leCoinBg": {
+      "ver": "1.0.3",
+      "uuid": "d6f273b5-24e9-4be6-88ad-c8570a16cdf4",
+      "rawTextureUuid": "6718046b-c776-4622-ad15-0c32a22aeb4c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 82,
+      "height": 24,
+      "rawWidth": 82,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

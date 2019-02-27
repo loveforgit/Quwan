@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anima_QiangZhuang",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2f7ba65b-12f0-4273-9e92-57bcc2cca655"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "64ee740a-7bd7-4c83-8929-8232ab852d9f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "89b94779-f2bd-43ec-af3e-47ff1479fe03"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "7963d773-6831-478e-9751-f489c160701f"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "dc998c10-6948-40e5-bede-d63a11a06d2f"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "4b47c79c-c576-4327-a3f8-28bcd6d454de"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "db2fed29-2aa2-468e-9f50-cd5e6f3c318d"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "d50647a8-9235-4f14-bea3-2ac5b4b6300a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kaiJin",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a63b3477-60a2-4c63-a6d4-6dd8e6f19472"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "190f720e-f674-45d4-9457-0f3e6ef09419"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "8c7f28d6-c577-4d2f-8b93-da8b498da3b0"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "a90af86a-b226-4d07-845e-1122570f0607"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "8ad9951c-4033-4170-b530-970377dd0e3e"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "f23efdc7-e84b-4241-ac5c-968a4caf90b4"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "ff365eb6-2794-49ba-99fc-4878dc95bedc"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "b1f8e9a5-10ac-4c8d-b726-92aa9056ce7d"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "b738523b-f2aa-41c6-a63b-410d7fb2609b"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "919c5ec9-f997-4854-bf3f-53844f191513"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "a63b3477-60a2-4c63-a6d4-6dd8e6f19472"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 2,
+            "y": 2
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>kiss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{148,404},{63,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,39}</string>
+			</dict>
+			<key>kiss1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,404},{79,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{79,61}</string>
+			</dict>
+			<key>kiss10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{101,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,87}</string>
+			</dict>
+			<key>kiss2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,101},{101,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,87}</string>
+			</dict>
+			<key>kiss3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,202},{101,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,87}</string>
+			</dict>
+			<key>kiss4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,303},{101,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,87}</string>
+			</dict>
+			<key>kiss5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,404},{101,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,87}</string>
+			</dict>
+			<key>kiss6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,0},{101,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,87}</string>
+			</dict>
+			<key>kiss7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,101},{101,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,87}</string>
+			</dict>
+			<key>kiss8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,202},{101,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,87}</string>
+			</dict>
+			<key>kiss9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{87,303},{101,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{101,87}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>kiss.png</string>
+			<key>realTextureFileName</key>
+			<string>kiss.png</string>
+			<key>size</key>
+			<string>{256,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

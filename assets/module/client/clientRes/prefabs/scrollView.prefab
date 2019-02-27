@@ -1,0 +1,605 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "scrol_mojping",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 9
+      }
+    ],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 19
+      },
+      {
+        "__id__": 7
+      }
+    ],
+    "_prefab": {
+      "__id__": 20
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 184,
+      "g": 184,
+      "b": 184,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 590,
+      "height": 410
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 92,
+      "y": 1
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "scrollBar",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 16
+      },
+      {
+        "__id__": 17
+      }
+    ],
+    "_prefab": {
+      "__id__": 18
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 238,
+      "g": 217,
+      "b": 227,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 1,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 12,
+      "height": 410
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 295,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bar",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 2
+    },
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 236,
+      "g": 241,
+      "b": 245,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 1,
+      "y": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 10,
+      "height": 30
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -1,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 3
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "5c3bb932-6c3c-468f-88a9-c8c61d458641"
+    },
+    "_type": 1,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "ff5ROXa4VEl7GZ4zA2TXIw",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Scrollbar",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "_scrollView": {
+      "__id__": 7
+    },
+    "_touching": false,
+    "_opacity": 255,
+    "enableAutoHide": true,
+    "autoHideTime": 1,
+    "_N$handle": {
+      "__id__": 4
+    },
+    "_N$direction": 1
+  },
+  {
+    "__type__": "cc.ScrollView",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "content": {
+      "__id__": 8
+    },
+    "horizontal": false,
+    "vertical": true,
+    "inertia": true,
+    "brake": 0.75,
+    "elastic": false,
+    "bounceDuration": 0.23,
+    "scrollEvents": [],
+    "cancelInnerEvents": true,
+    "_N$horizontalScrollBar": null,
+    "_N$verticalScrollBar": {
+      "__id__": 6
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "content",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 9
+    },
+    "_children": [
+      {
+        "__id__": 12
+      }
+    ],
+    "_tag": -1,
+    "_active": true,
+    "_components": [],
+    "_prefab": {
+      "__id__": 15
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 1
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 590,
+      "height": 5000
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 212
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "view",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 8
+      }
+    ],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 10
+      }
+    ],
+    "_prefab": {
+      "__id__": 11
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 580,
+      "height": 410
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 14
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Mask",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 9
+    },
+    "_enabled": true,
+    "_type": 0,
+    "_segements": 64,
+    "_N$spriteFrame": null,
+    "_N$alphaThreshold": 1,
+    "_N$inverted": false
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "64/saf5gNOZ4CUqqN4TA6Q",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "item",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 8
+    },
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 13
+      }
+    ],
+    "_prefab": {
+      "__id__": 14
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 580,
+      "height": 9858
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -289,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 12
+    },
+    "_enabled": true,
+    "_useOriginalSize": false,
+    "_actualFontSize": 30,
+    "_fontSize": 30,
+    "_lineHeight": 31,
+    "_enableWrapText": true,
+    "_N$file": null,
+    "_isSystemFontUsed": true,
+    "_spacingX": 0,
+    "_N$string": "返回主页\n陈亚\n博客园\n首页\n新随笔\n联系\n订阅\n管理\njavaScript遍历对象、数组总结\n      在日常工作过程中，我们对于javaScript遍历对象、数组的操作是十分的频繁的，今天抽空把经常用到的方法小结一下，方便今后参考使用！\n\n    javaScript遍历对象总结\n1、使用Object.keys()遍历  \n    \n      返回一个数组,包括对象自身的(不含继承的)所有可枚举属性(不含Symbol属性).\n复制代码\nvar obj = {'0':'a','1':'b','2':'c'};\n\nObject.keys(obj).forEach(function(key){\n\n     console.log(key,obj[key]);\n\n});\n复制代码\n \n\n\n\n \n\n \n\n2、使用for..in..遍历     \n\n      循环遍历对象自身的和继承的可枚举属性(不含Symbol属性).\n复制代码\nvar obj = {'0':'a','1':'b','2':'c'};\n\nfor(var i in obj) {\n\n     console.log(i,\":\",obj[i]);\n\n}\n\n \n复制代码\n \n\n\n\n \n\n \n\n3、使用Object.getOwnPropertyNames(obj)遍历\n\n      返回一个数组,包含对象自身的所有属性(不含Symbol属性,但是包括不可枚举属性).\n复制代码\nvar obj = {'0':'a','1':'b','2':'c'};\nObject.getOwnPropertyNames(obj).forEach(function(key){\n\n    console.log(key,obj[key]);\n\n});\n复制代码\n \n\n\n\n \n\n4、使用Reflect.ownKeys(obj)遍历\n\n      返回一个数组,包含对象自身的所有属性,不管属性名是Symbol或字符串,也不管是否可枚举.  \n复制代码\nvar obj = {'0':'a','1':'b','2':'c'};\nReflect.ownKeys(obj).forEach(function(key){\n\nconsole.log(key,obj[key]);\n\n});\n复制代码\n \n\n\n\n \n\n \n\njavaScript遍历数组总结\n \n\n1、使用forEach遍历\n复制代码\nvar arr=[1,2,3,4];\n\narr.forEach(function(val, index) {\n\nconsole.log(val, index);\n});\n\n \n复制代码\n \n\n\n\n \n\n \n\n2、使用for..in..遍历\n复制代码\nvar arr=[\"张三\",\"李四\",\"王五\",\"赵六\"];\n\nfor (var i in arr){\n\nconsole.log(i,\":\",arr[i]);\n\n}\n复制代码\n \n\n\n\n \n\n3、使用for-of遍历\n\n     不仅支持数组，还支持大多数类数组对象，例如DOM NodeList对象.\n\n     也支持字符串遍历，它将字符串视为一系列的Unicode字符来进行遍历.\n复制代码\nvar arr=[\"张三\",\"李四\",\"王五\",\"赵六\"];\n\nfor (var value of arr){\n\n    console.log(value);\n\n}\n复制代码\n \n\n\n\n \n\n \n \n\n好文要顶 关注我 收藏该文    \n陈亚\n关注 - 17\n粉丝 - 26\n+加关注\n3 0\n« 上一篇：从几张图来看看越来越难做的前端\n» 下一篇：JavaScript数组常用操作总结\nposted @ 2017-02-28 11:24 陈亚 阅读(13171) 评论(0) 编辑 收藏\n刷新评论刷新页面返回顶部\n注册用户登录后才能发表评论，请 登录 或 注册，访问网站首页。\n【推荐】超50万VC++源码: 大型组态工控、电力仿真CAD与GIS源码库！\n【缅怀】传奇谢幕，回顾霍金76载传奇人生\n【推荐】业界最快速.NET数据可视化图表组件\n【推荐】腾讯云校园拼团福利，1核2G服务器10元/月！\n【活动】2050 科技公益大会 - 年青人因科技而团聚\nqcloud0314\n最新IT新闻:\n· 乐信任命王能和吴宵光为新的董事会成员\n· 三星集团低调迎来80周年华诞 未举办任何庆祝活动\n· Uber冲击波：美国波士顿要求所有无人车暂停路测\n· 游戏的生命周期为什么越来越短了？\n· 我和春天有个约会，阿里云MVP第4期公布\n» 更多新闻...\n阿里云0308\n最新知识库文章:\n· 写给自学者的入门指南\n· 和程序员谈恋爱\n· 学会学习\n· 优秀技术人的管理陷阱\n· 作为一个程序员，数学对你到底有多重要\n» 更多知识库文章...\n公告\n昵称：陈亚\n园龄：3年4个月\n粉丝：26\n关注：17\n+加关注\n<\t2018年3月\t>\n日\t一\t二\t三\t四\t五\t六\n25\t26\t27\t28\t1\t2\t3\n4\t5\t6\t7\t8\t9\t10\n11\t12\t13\t14\t15\t16\t17\n18\t19\t20\t21\t22\t23\t24\n25\t26\t27\t28\t29\t30\t31\n1\t2\t3\t4\t5\t6\t7\n搜索\n\n \n\n \n最新随笔\n1. JS中的 map, filter, some, every, forEach, for...in, for...of 用法总结\n2. vue-router 组件实例被复用问题\n3. 微信公众号申请步骤及注意事项整理\n4. 服务器渲染和客户端渲染学习笔记\n5. git cherry-pick 整理\n6. JavaScript简写技巧总结\n7. js:防抖动与节流\n8. PM2使用心得\n9. 区块链学习\n10. A:hover>B是父元素A获取hover改变子元素B的样式，如果A获取标签想要改变B的子元素的样式，怎么做？\n我的标签\nIE9(1)\njavascript(1)\nSEO(1)\nTweenMax动画库学习(二)(1)\nVue.js(1)\nVueConf(1)\nWeb前端开发(1)\n常用网站(1)\n全球首届Vue.js开发者大会(1)\n知乎Live(1)\n更多\n随笔档案(89)\n2018年3月 (4)\n2018年2月 (3)\n2018年1月 (6)\n2017年12月 (4)\n2017年11月 (5)\n2017年10月 (4)\n2017年9月 (4)\n2017年8月 (4)\n2017年7月 (5)\n2017年6月 (5)\n2017年5月 (3)\n2017年4月 (4)\n2017年3月 (5)\n2017年2月 (5)\n2017年1月 (1)\n2016年12月 (4)\n2016年11月 (4)\n2016年10月 (2)\n2016年8月 (1)\n2016年7月 (4)\n2016年6月 (9)\n2016年5月 (3)\n积分与排名\n积分 -\t39812\n排名 -\t9537\n最新评论\n1. Re:Turn.js 实现翻书效果的学习与总结\n你好,你能不能把你项目源码贴出来看下，你实现预加载方法！\n--孤鹜恋落霞\n2. Re:PWA学习心得\n顶一个，好文\n--择天记\n3. Re:PWA学习心得\ngreat\n--solenovex\n4. Re:使用vue-router切换页面时，获取上一页url以及当前页面url\n直接watch $route就可以了\n--css_this\n5. Re:TweenMax动画库学习(一)\n@黑夜丶残枫这个库在移动端写动画的时候，可以用来做缓动动画，效果非常好，有些H5页面的动画，用的就是这个库...\n--陈亚\n阅读排行榜\n1. javaScript遍历对象、数组总结(13170)\n2. 使用vue-router切换页面时，获取上一页url以及当前页面url(11268)\n3. datatables完整的增删改查(6570)\n4. Turn.js 实现翻书效果的学习与总结(5778)\n5. TweenMax动画库学习(二)(3895)\n评论排行榜\n1. 动态获取爱奇艺上传视频mp4格式url地址(6)\n2. Turn.js 实现翻书效果的学习与总结(5)\n3. TweenMax动画库学习(一)(2)\n4. PWA学习心得(2)\n5. Node.js学习心得(1)\n推荐排行榜\n1. javaScript遍历对象、数组总结(3)\n2. PWA学习心得(2)\n3. Turn.js 实现翻书效果的学习与总结(2)\n4. TweenMax动画库学习(一)(2)\n5. Node.js学习心得(1)\nCopyright ©2018 陈亚",
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "88OtstnpdAoKGKExJF4qX+",
+    "sync": false
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "8fXwZGoqhGx4FaN5ZgHOLS",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Widget",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "isAlignOnce": true,
+    "_target": null,
+    "_alignFlags": 37,
+    "_left": 350.07654921020657,
+    "_right": 0,
+    "_top": 0,
+    "_bottom": 0,
+    "_verticalCenter": 0,
+    "_horizontalCenter": 0,
+    "_isAbsLeft": true,
+    "_isAbsRight": true,
+    "_isAbsTop": true,
+    "_isAbsBottom": true,
+    "_isAbsHorizontalCenter": true,
+    "_isAbsVerticalCenter": true,
+    "_originalWidth": 0,
+    "_originalHeight": 237
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "5fe5dcaa-b513-4dc5-a166-573627b3a159"
+    },
+    "_type": 1,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "50sYb2hqxJo6xXPKyoS+vC",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_spriteFrame": null,
+    "_type": 1,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "913Xk2PnlIQKJwSDiqqEDT",
+    "sync": false
+  }
+]

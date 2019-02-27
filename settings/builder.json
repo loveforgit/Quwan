@@ -1,0 +1,38 @@
+{
+  "appKey": "7066301D-21DA-4A96-E88A-7B467CB04A01",
+  "appSecret": "4bfa14301c0c3fda40cedcbf1ce30e0d",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": true,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": true,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "http://anysdk.xianwanplay.com/login.aspx",
+  "optimizeHotUpdate": true,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.huanlqipai.hlqp",
+  "privateKey": "328627141C7E61582D0E2BDE691043A4",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "9c56d781-4ce7-4f59-b750-5781888a3b92",
+  "title": "huamleqipai",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "e9103dcc-f6d7-40",
+  "zipCompressJs": true
+}
